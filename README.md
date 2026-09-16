@@ -1,4 +1,4 @@
-# Super Store Sales Dashboard
+# Super Store Sales Dashboard Project Report
 
 ## 📊 Project Overview
 This project is a Power BI dashboard created to analyze Super Store sales data.
